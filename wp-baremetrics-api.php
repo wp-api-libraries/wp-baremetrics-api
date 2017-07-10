@@ -44,7 +44,7 @@ if ( ! class_exists( 'BaremetricsAPI' ) ) {
 		 * @access private
 		 * @static
 		 */
-		static private $base_uri = 'https://api-sandbox.baremetrics.com';
+		static private $sandbox_uri = 'https://api-sandbox.baremetrics.com';
 
 
 		/**
