@@ -178,16 +178,87 @@ if ( ! class_exists( 'BaremetricsAPI' ) ) {
 			
 		}
 		
+		public function show_annotation() {
+			
+		}
+		
+		public function create_annotation() {
+			
+		}
+		
+		public function delete_annotation() {
+			
+		}
+		
 		/* GOALS. */
 		
+		public function list_goals() {
+  
+		}
+
+		public function show_goal() {
+  
+		}
+
+		public function create_goal() {
+  
+		}
+
+		public function delete_goal() {
+
+		}
+			
 		/* USERS. */
+		
+		public function list_users() {
+			
+		}
+		
+		public function show_user() {
+			
+		}
 		
 		/* CHARGES. */
 		
+		public function list_charges() {
+  
+		}
+
+		public function show_charge() {
+  
+		}
+
+		public function create_charge() {
+  
+		}
+		
 		/* EVENTS. */
+		
+		public function list_events() {
+			
+		}
+		
+		public function show_event() {
+			
+		}
 		
 		/* METRICS. */
 
+		public function show_metrics_summary() {
+			
+		}
+		
+		public function show_metric() {
+			
+		}
+		
+		public function show_customers() {
+			
+		}
+		
+		public function show_plan_breakout() {
+			
+		}
 
 	}
 }
