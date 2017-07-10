@@ -130,9 +130,53 @@ if ( ! class_exists( 'BaremetricsAPI' ) ) {
 		
 		/* CUSTOMERS. */
 		
+		public function list_customers() {
+			
+		}
+		
+		public function show_customers() {
+			
+		}
+		
+		public function list_customer_events() {
+			
+		}
+		
+		public function update_customer() {
+			
+		}
+		
 		/* SUBSCRIPTIONS. */
 		
+		public function list_subscriptions() {
+			
+		}
+		
+		public function show_subscription() {
+			
+		}
+		
+		public function update_subscription() {
+			
+		}
+		
+		public function cancel_subscription() {
+			
+		}
+		
+		public function create_subscription() {
+			
+		}
+		
+		public function delete_subscription() {
+			
+		}
+		
 		/* ANNOTATIONS. */
+		
+		public function list_annotations() {
+			
+		}
 		
 		/* GOALS. */
 		
